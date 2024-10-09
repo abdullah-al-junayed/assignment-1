@@ -1,6 +1,2 @@
 # assignment
-# assignment-1
-# assignment-1
-# assignment-1
-# assignment-1
-# assignment-1
+First assignment but its not fullfil and qualitiful .
